@@ -1,0 +1,4 @@
+scale_factor = 1.0  # Cambia a 0.8 para alejar o 1.2 para acercar
+cursor_animation_length = 0.13
+cursor_trail_length = 0.8
+

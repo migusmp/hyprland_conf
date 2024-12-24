@@ -1,0 +1,7 @@
+[flavor]
+# use = "ayu-dark"
+# use = "tokyo-night"
+
+use = "catppuccin-macchiato"
+# For upcoming Yazi 0.4 (nightly version):
+dark = "catppuccin-macchiato"

@@ -1,0 +1,15 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* Layout Config (Waybar) */
+
+@import "~/.config/rofi/config-waybar-style.rasi" 
+
+/* ---- Entry ---- */ 
+entry {
+  placeholder: "🖼️ Choose Waybar Layout";
+}
+
+window {
+  width: 40%;
+  height: 500px;
+}
+
